@@ -20,8 +20,10 @@ Flughafen Berlin-Tegel, Fluggastbrücke Gate A8
 
 ![Sixt Flieger](./images/sixt-ueberflieger.jpg)
 
+Fotos: Papa
+
 ### 2. Nintendo Switch
-Direkt zu <a href="https://www.youtube.com/watch?v=jqPuykfbNg8" target="_blank">YouTube</a>.
+
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/jqPuykfbNg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### 3. Haribo TV Spots
